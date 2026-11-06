@@ -1,13 +1,8 @@
 # Linux from (Basics → Professional)
 
-<aside>
-🎓
-
-This cheat sheet is written from a **Linux Admin I → Linux Admin II** perspective.
-
-It focuses on the commands you actually use for **operations, troubleshooting, services, storage, and networking**.
-
-</aside>
+> **Scope:** This reference is written from a **Linux Admin I → Linux Admin II** perspective.
+>
+> It focuses on practical commands for **operations, troubleshooting, services, storage, and networking**, with a separate section for security and penetration-testing workflows.
 
 ### Conventions
 
@@ -89,7 +84,7 @@ rsync -aHAX --info=progress2 src/ dst/
 
 ```bash
 tar -czf backup_etc.tgz /etc
-# list archive
+#### Archive & Compression
 tar -tzf backup_etc.tgz | head
 ```
 

@@ -1,0 +1,13 @@
+# Local editor and temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# Operating-system and editor metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
