@@ -41,8 +41,13 @@ Some examples perform network reconnaissance, access-control changes, file opera
 
 This repository is intentionally document-first. The primary deliverable is a Markdown reference; there is no application build or runtime dependency.
 
-## License
+## License and permissions
 
-The original written reference is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. See [LICENSE](./LICENSE).
+This repository is **proprietary; all rights reserved**. You may view it where access is granted. For a public repository, GitHub's Terms of Service permit users to view and fork it on GitHub. Those platform permissions do not grant a general right to reuse, modify, redistribute, sublicense, or commercially exploit the original material outside GitHub.
 
-You may share and adapt the licensed material, including commercially, provided you give appropriate attribution, link to the license, and indicate changes. The license does not cover third-party trademarks or material that the repository owner does not have authority to license.
+Obtain prior, express, written permission from the copyright holder before any such use beyond the rights GitHub grants. Sending a request is not approval; wait for written authorization. See [LICENSE](./LICENSE) for the full scope, exclusions, permission-request route, and treatment of earlier license grants.
+
+**Third-party material:** This notice covers only original material that the repository owner owns or is authorized to license. Third-party software, images, fonts, trademarks, curricula, standards, datasets, contributions, and other external content remain subject to their respective rights and terms. This repository does not relicense them.
+
+**Reference boundary:** The previous CC BY 4.0 notice cannot be retroactively withdrawn for copies and versions already distributed under that license. See the `PREVIOUS LICENSES` section of [LICENSE](./LICENSE).
+
